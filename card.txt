@@ -1,0 +1,13 @@
+<div class="poster">
+
+                        </div>
+                        <div class="movie">
+                            <div class="tittleMovie">
+                                <p>a</p>
+                            </div>
+                            <div class="descriptionMovie">
+                                <p>Rating :</p>
+                                <p>Length :</p>
+                                <p>Genre :</p>
+                            </div>
+                        </div>
